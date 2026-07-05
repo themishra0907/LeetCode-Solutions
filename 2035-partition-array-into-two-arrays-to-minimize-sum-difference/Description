@@ -1,0 +1,25 @@
+Solved one of the most challenging problems on LeetCode: **2035. Partition Array Into Two Arrays to Minimize Sum Difference** using Python.
+
+At first, the problem appears to require checking every possible partition, which leads to an exponential-time brute-force solution that is not feasible for the given constraints.
+
+The key was recognizing that this problem can be solved efficiently using the **Meet in the Middle** technique.
+
+### Approach
+
+* Split the array into two equal halves.
+* Generate all possible subset sums for each half while keeping track of how many elements are selected in every subset.
+* Group the subset sums by the number of selected elements, since the final partition must contain exactly **n** elements.
+* Sort the subset sums of one half and use **Binary Search** to efficiently find the combination that brings the selected sum closest to half of the total array sum.
+* Calculate the minimum possible difference between the two partition sums by evaluating only the closest candidates.
+
+### Concepts Used
+
+* Meet in the Middle
+* Binary Search (`bisect`)
+* Bitmasking
+* Subset Sum Generation
+* Time Complexity Optimization
+
+Problems like this highlight the importance of identifying the right algorithmic technique rather than relying on brute force. Every challenging problem solved is another opportunity to strengthen problem-solving skills and deepen understanding of advanced algorithms.
+
+#LeetCode #Python #DSA #Algorithms #MeetInTheMiddle #BinarySearch #ProblemSolving #CompetitiveProgramming #SoftwareEngineering
