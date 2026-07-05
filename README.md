@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/themishra0907/LeetCode-Solutions/tree/master/0075-sort-colors) |
+| [0162-find-peak-element](https://github.com/themishra0907/LeetCode-Solutions/tree/master/0162-find-peak-element) |
 ## Two Pointers
 |  |
 | ------- |
@@ -23,4 +24,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/themishra0907/LeetCode-Solutions/tree/master/0075-sort-colors) |
+## Binary Search
+|  |
+| ------- |
+| [0162-find-peak-element](https://github.com/themishra0907/LeetCode-Solutions/tree/master/0162-find-peak-element) |
 <!---LeetCode Topics End-->
