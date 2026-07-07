@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/themishra0907/LeetCode-Solutions/tree/master/0162-find-peak-element) |
 | [1288-remove-covered-intervals](https://github.com/themishra0907/LeetCode-Solutions/tree/master/1288-remove-covered-intervals) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/themishra0907/LeetCode-Solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [3620-network-recovery-pathways](https://github.com/themishra0907/LeetCode-Solutions/tree/master/3620-network-recovery-pathways) |
 ## Two Pointers
 |  |
 | ------- |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0162-find-peak-element](https://github.com/themishra0907/LeetCode-Solutions/tree/master/0162-find-peak-element) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/themishra0907/LeetCode-Solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [3620-network-recovery-pathways](https://github.com/themishra0907/LeetCode-Solutions/tree/master/3620-network-recovery-pathways) |
 ## Hash Table
 |  |
 | ------- |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/themishra0907/LeetCode-Solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [3620-network-recovery-pathways](https://github.com/themishra0907/LeetCode-Solutions/tree/master/3620-network-recovery-pathways) |
 ## Ordered Set
 |  |
 | ------- |
@@ -72,4 +75,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0224-basic-calculator](https://github.com/themishra0907/LeetCode-Solutions/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/themishra0907/LeetCode-Solutions/tree/master/0231-power-of-two) |
+## Graph Theory
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/themishra0907/LeetCode-Solutions/tree/master/3620-network-recovery-pathways) |
+## Topological Sort
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/themishra0907/LeetCode-Solutions/tree/master/3620-network-recovery-pathways) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/themishra0907/LeetCode-Solutions/tree/master/3620-network-recovery-pathways) |
+## Shortest Path
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/themishra0907/LeetCode-Solutions/tree/master/3620-network-recovery-pathways) |
 <!---LeetCode Topics End-->
