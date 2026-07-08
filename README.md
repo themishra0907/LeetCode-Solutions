@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/themishra0907/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/themishra0907/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0075-sort-colors](https://github.com/themishra0907/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0162-find-peak-element](https://github.com/themishra0907/LeetCode-Solutions/tree/master/0162-find-peak-element) |
 | [1288-remove-covered-intervals](https://github.com/themishra0907/LeetCode-Solutions/tree/master/1288-remove-covered-intervals) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/themishra0907/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0224-basic-calculator](https://github.com/themishra0907/LeetCode-Solutions/tree/master/0224-basic-calculator) |
 ## Stack
 |  |
@@ -91,4 +93,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3620-network-recovery-pathways](https://github.com/themishra0907/LeetCode-Solutions/tree/master/3620-network-recovery-pathways) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/themishra0907/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
