@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/themishra0907/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/themishra0907/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/themishra0907/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/themishra0907/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0162-find-peak-element](https://github.com/themishra0907/LeetCode-Solutions/tree/master/0162-find-peak-element) |
 | [0877-stone-game](https://github.com/themishra0907/LeetCode-Solutions/tree/master/0877-stone-game) |
@@ -32,12 +33,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/themishra0907/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/themishra0907/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0202-happy-number](https://github.com/themishra0907/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/themishra0907/LeetCode-Solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/themishra0907/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/themishra0907/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [1288-remove-covered-intervals](https://github.com/themishra0907/LeetCode-Solutions/tree/master/1288-remove-covered-intervals) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/themishra0907/LeetCode-Solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
