@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/themishra0907/LeetCode-Solutions/tree/master/0010-regular-expression-matching) |
 | [0877-stone-game](https://github.com/themishra0907/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/themishra0907/LeetCode-Solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [3620-network-recovery-pathways](https://github.com/themishra0907/LeetCode-Solutions/tree/master/3620-network-recovery-pathways) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/themishra0907/LeetCode-Solutions/tree/master/0010-regular-expression-matching) |
 | [0014-longest-common-prefix](https://github.com/themishra0907/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0224-basic-calculator](https://github.com/themishra0907/LeetCode-Solutions/tree/master/0224-basic-calculator) |
 ## Stack
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/themishra0907/LeetCode-Solutions/tree/master/0010-regular-expression-matching) |
 | [0224-basic-calculator](https://github.com/themishra0907/LeetCode-Solutions/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/themishra0907/LeetCode-Solutions/tree/master/0231-power-of-two) |
 ## Graph Theory
