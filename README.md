@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/themishra0907/LeetCode-Solutions/tree/master/0029-divide-two-integers) |
+| [0070-climbing-stairs](https://github.com/themishra0907/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/themishra0907/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0224-basic-calculator](https://github.com/themishra0907/LeetCode-Solutions/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/themishra0907/LeetCode-Solutions/tree/master/0231-power-of-two) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/themishra0907/LeetCode-Solutions/tree/master/0010-regular-expression-matching) |
+| [0070-climbing-stairs](https://github.com/themishra0907/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0877-stone-game](https://github.com/themishra0907/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/themishra0907/LeetCode-Solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [3620-network-recovery-pathways](https://github.com/themishra0907/LeetCode-Solutions/tree/master/3620-network-recovery-pathways) |
@@ -110,4 +112,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/themishra0907/LeetCode-Solutions/tree/master/0877-stone-game) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/themishra0907/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
