@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/themishra0907/LeetCode-Solutions/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/themishra0907/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0877-stone-game](https://github.com/themishra0907/LeetCode-Solutions/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/themishra0907/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/themishra0907/LeetCode-Solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Bit Manipulation
 |  |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/themishra0907/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0162-find-peak-element](https://github.com/themishra0907/LeetCode-Solutions/tree/master/0162-find-peak-element) |
 | [0877-stone-game](https://github.com/themishra0907/LeetCode-Solutions/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/themishra0907/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 | [1288-remove-covered-intervals](https://github.com/themishra0907/LeetCode-Solutions/tree/master/1288-remove-covered-intervals) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/themishra0907/LeetCode-Solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [3620-network-recovery-pathways](https://github.com/themishra0907/LeetCode-Solutions/tree/master/3620-network-recovery-pathways) |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/themishra0907/LeetCode-Solutions/tree/master/0010-regular-expression-matching) |
 | [0070-climbing-stairs](https://github.com/themishra0907/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0877-stone-game](https://github.com/themishra0907/LeetCode-Solutions/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/themishra0907/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/themishra0907/LeetCode-Solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [3620-network-recovery-pathways](https://github.com/themishra0907/LeetCode-Solutions/tree/master/3620-network-recovery-pathways) |
 ## Ordered Set
@@ -113,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/themishra0907/LeetCode-Solutions/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/themishra0907/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 ## Memoization
 |  |
 | ------- |
@@ -129,4 +133,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/themishra0907/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/themishra0907/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/themishra0907/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/themishra0907/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
