@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/themishra0907/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/themishra0907/LeetCode-Solutions/tree/master/0029-divide-two-integers) |
 | [0070-climbing-stairs](https://github.com/themishra0907/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/themishra0907/LeetCode-Solutions/tree/master/0202-happy-number) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/themishra0907/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/themishra0907/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
 | [0202-happy-number](https://github.com/themishra0907/LeetCode-Solutions/tree/master/0202-happy-number) |
 ## Dynamic Programming
 |  |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/themishra0907/LeetCode-Solutions/tree/master/0010-regular-expression-matching) |
+| [0012-integer-to-roman](https://github.com/themishra0907/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/themishra0907/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0224-basic-calculator](https://github.com/themishra0907/LeetCode-Solutions/tree/master/0224-basic-calculator) |
 ## Stack
