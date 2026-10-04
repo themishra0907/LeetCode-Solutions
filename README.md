@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/themishra0907/LeetCode-Solutions/tree/master/0010-regular-expression-matching) |
 | [0070-climbing-stairs](https://github.com/themishra0907/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
+| [0678-valid-parenthesis-string](https://github.com/themishra0907/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/themishra0907/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/themishra0907/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/themishra0907/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
@@ -88,11 +89,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/themishra0907/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/themishra0907/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0224-basic-calculator](https://github.com/themishra0907/LeetCode-Solutions/tree/master/0224-basic-calculator) |
+| [0678-valid-parenthesis-string](https://github.com/themishra0907/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 ## Stack
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/themishra0907/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0224-basic-calculator](https://github.com/themishra0907/LeetCode-Solutions/tree/master/0224-basic-calculator) |
+| [0678-valid-parenthesis-string](https://github.com/themishra0907/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 ## Recursion
 |  |
 | ------- |
@@ -170,4 +173,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/themishra0907/LeetCode-Solutions/tree/master/0112-path-sum) |
+## Greedy
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/themishra0907/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/themishra0907/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
