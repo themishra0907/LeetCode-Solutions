@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/themishra0907/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/themishra0907/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 | [1288-remove-covered-intervals](https://github.com/themishra0907/LeetCode-Solutions/tree/master/1288-remove-covered-intervals) |
+| [1652-defuse-the-bomb](https://github.com/themishra0907/LeetCode-Solutions/tree/master/1652-defuse-the-bomb) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/themishra0907/LeetCode-Solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/themishra0907/LeetCode-Solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/themishra0907/LeetCode-Solutions/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
@@ -207,4 +208,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/themishra0907/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
+## Sliding Window
+|  |
+| ------- |
+| [1652-defuse-the-bomb](https://github.com/themishra0907/LeetCode-Solutions/tree/master/1652-defuse-the-bomb) |
 <!---LeetCode Topics End-->
