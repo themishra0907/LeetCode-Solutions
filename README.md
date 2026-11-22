@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/themishra0907/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0224-basic-calculator](https://github.com/themishra0907/LeetCode-Solutions/tree/master/0224-basic-calculator) |
 | [0678-valid-parenthesis-string](https://github.com/themishra0907/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/themishra0907/LeetCode-Solutions/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/themishra0907/LeetCode-Solutions/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/themishra0907/LeetCode-Solutions/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 ## Stack
