@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/themishra0907/LeetCode-Solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/themishra0907/LeetCode-Solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/themishra0907/LeetCode-Solutions/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/themishra0907/LeetCode-Solutions/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3620-network-recovery-pathways](https://github.com/themishra0907/LeetCode-Solutions/tree/master/3620-network-recovery-pathways) |
 ## Two Pointers
 |  |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/themishra0907/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
 | [0202-happy-number](https://github.com/themishra0907/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/themishra0907/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/themishra0907/LeetCode-Solutions/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/themishra0907/LeetCode-Solutions/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/themishra0907/LeetCode-Solutions/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/themishra0907/LeetCode-Solutions/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/themishra0907/LeetCode-Solutions/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Stack
 |  |
 | ------- |
@@ -150,11 +153,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/themishra0907/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0112-path-sum](https://github.com/themishra0907/LeetCode-Solutions/tree/master/0112-path-sum) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/themishra0907/LeetCode-Solutions/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/themishra0907/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0112-path-sum](https://github.com/themishra0907/LeetCode-Solutions/tree/master/0112-path-sum) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/themishra0907/LeetCode-Solutions/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Binary Tree
 |  |
 | ------- |
