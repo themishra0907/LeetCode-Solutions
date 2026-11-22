@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/themishra0907/LeetCode-Solutions/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/themishra0907/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/themishra0907/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0507-perfect-number](https://github.com/themishra0907/LeetCode-Solutions/tree/master/0507-perfect-number) |
 | [0877-stone-game](https://github.com/themishra0907/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/themishra0907/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/themishra0907/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
